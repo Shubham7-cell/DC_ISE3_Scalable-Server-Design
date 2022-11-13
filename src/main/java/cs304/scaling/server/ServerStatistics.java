@@ -1,4 +1,4 @@
-package cs455.scaling.server;
+package cs304.scaling.server;
 
 /**
  * Class for storing per client statistics used by the server to compute server throughput, mean per-client

@@ -1,6 +1,6 @@
-import cs455.scaling.threadpool.*;
-import cs455.scaling.util.LOGGER;
-import cs455.scaling.util.Util;
+import cs304.scaling.threadpool.*;
+import cs304.scaling.util.LOGGER;
+import cs304.scaling.util.Util;
 import org.junit.Test;
 
 import java.util.ArrayList;

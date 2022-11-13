@@ -1,11 +1,11 @@
-package cs455.scaling.server;
+package cs304.scaling.server;
 
-import cs455.scaling.task.BatchTaskManager;
-import cs455.scaling.task.ClientRegistrationTask;
-import cs455.scaling.task.ReadAndRespondTask;
-import cs455.scaling.threadpool.ThreadPool;
-import cs455.scaling.util.LOGGER;
-import cs455.scaling.util.Util;
+import cs304.scaling.task.BatchTaskManager;
+import cs304.scaling.task.ClientRegistrationTask;
+import cs304.scaling.task.ReadAndRespondTask;
+import cs304.scaling.threadpool.ThreadPool;
+import cs304.scaling.util.LOGGER;
+import cs304.scaling.util.Util;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;

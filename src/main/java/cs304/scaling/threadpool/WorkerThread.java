@@ -1,6 +1,6 @@
-package cs455.scaling.threadpool;
+package cs304.scaling.threadpool;
 
-import cs455.scaling.util.LOGGER;
+import cs304.scaling.util.LOGGER;
 
 /**
  * This class is the worker thread. This class is responsible for picking a task at a time from the threadpool and

@@ -1,6 +1,6 @@
-package cs455.scaling.client;
+package cs304.scaling.client;
 
-import cs455.scaling.util.LOGGER;
+import cs304.scaling.util.LOGGER;
 
 import java.io.IOException;
 

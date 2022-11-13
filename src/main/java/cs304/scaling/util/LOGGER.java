@@ -1,4 +1,4 @@
-package cs455.scaling.util;
+package cs304.scaling.util;
 
 public class LOGGER {
 

@@ -1,4 +1,4 @@
-package cs455.scaling.wireformats;
+package cs304.scaling.wireformats;
 
 /**
  * This class stores the values of variables that are stored throughout the system.

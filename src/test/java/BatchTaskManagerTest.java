@@ -1,7 +1,7 @@
-import cs455.scaling.task.*;
-import cs455.scaling.threadpool.Task;
-import cs455.scaling.threadpool.ThreadPool;
-import cs455.scaling.util.Util;
+import cs304.scaling.task.*;
+import cs304.scaling.threadpool.Task;
+import cs304.scaling.threadpool.ThreadPool;
+import cs304.scaling.util.Util;
 import org.junit.Test;
 
 import java.util.ArrayList;

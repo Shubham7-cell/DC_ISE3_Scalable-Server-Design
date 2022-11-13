@@ -1,6 +1,6 @@
-package cs455.scaling.threadpool;
+package cs304.scaling.threadpool;
 
-import cs455.scaling.util.LOGGER;
+import cs304.scaling.util.LOGGER;
 import java.util.ArrayList;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;

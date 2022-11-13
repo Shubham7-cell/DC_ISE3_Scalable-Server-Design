@@ -1,4 +1,4 @@
-package cs455.scaling.server;
+package cs304.scaling.server;
 
 import java.io.IOException;
 

@@ -1,4 +1,4 @@
-package cs455.scaling.util;
+package cs304.scaling.util;
 
 import java.io.IOException;
 import java.math.BigInteger;

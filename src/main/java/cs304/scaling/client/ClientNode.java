@@ -1,8 +1,8 @@
-package cs455.scaling.client;
+package cs304.scaling.client;
 
-import cs455.scaling.util.LOGGER;
-import cs455.scaling.util.Util;
-import cs455.scaling.wireformats.Protocol;
+import cs304.scaling.util.LOGGER;
+import cs304.scaling.util.Util;
+import cs304.scaling.wireformats.Protocol;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;

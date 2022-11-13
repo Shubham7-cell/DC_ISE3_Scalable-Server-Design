@@ -1,4 +1,4 @@
-package cs455.scaling.client;
+package cs304.scaling.client;
 
 /**
  * This class is for storing the statistics of the client. These statistics include the number of messages sent to

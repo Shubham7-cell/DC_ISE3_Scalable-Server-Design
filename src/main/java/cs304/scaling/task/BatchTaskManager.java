@@ -1,8 +1,8 @@
-package cs455.scaling.task;
+package cs304.scaling.task;
 
-import cs455.scaling.threadpool.Task;
-import cs455.scaling.threadpool.ThreadPool;
-import cs455.scaling.util.LOGGER;
+import cs304.scaling.threadpool.Task;
+import cs304.scaling.threadpool.ThreadPool;
+import cs304.scaling.util.LOGGER;
 
 import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.locks.ReentrantLock;

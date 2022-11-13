@@ -1,4 +1,4 @@
-package cs455.scaling.threadpool;
+package cs304.scaling.threadpool;
 
 /**
  * This interface should be implemented by any class that wishes to be put in the thread pool.
