@@ -94,9 +94,9 @@ has sent and received during the last 20 seconds. This log message looks similar
 **[timestamp] Total Sent Count: x, Total Received Count: y**
 
 ## Command line arguments for the two components
-Classes are organized in a package called cs455.scaling. The command-line arguments
+Classes are organized in a package called cs304.scaling. The command-line arguments
 and the order in which they should be specified for the Server and the Client are listed below:
 
-**java cs455.scaling.server.Server portnum thread-pool-size batch-size batch-time**
+**java server.cs304.scaling.Server portnum thread-pool-size batch-size batch-time**
 
-**java cs455.scaling.client.Client server-host server-port message-rate**
+**java client.cs304.scaling.Client server-host server-port message-rate**
